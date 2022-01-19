@@ -3,7 +3,7 @@
     <template v-slot:links>
     </template>
     <template v-slot:copyright>
-      <a href="http://www.sublet.com" target="_blank">@房转系统</a>
+      <a href="" target="_blank">@房转系统</a>
     </template>
   </global-footer>
 </template>

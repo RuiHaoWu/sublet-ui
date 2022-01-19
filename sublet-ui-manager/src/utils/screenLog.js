@@ -7,7 +7,7 @@ export const printANSI = () => {
  (__  ) / /_/ /  / /_/ / / /  /  __// /_  
 /____/  \\__,_/  /_.___/ /_/   \\___/ \\__/                        
  :: sublet ::        (v1.0.0.RELEASE)
- “房转”系统 : https://www.sublet.xyz
+ “房转”系统
 `
 
 console.log(`%c${text}`, 'color: #fc4d50')
